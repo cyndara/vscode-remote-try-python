@@ -39,4 +39,5 @@
 
 	// Comment out to connect as root instead.
 	//"remoteUser": "vscode"
+	"updateRemoteUserUID": true
 }
